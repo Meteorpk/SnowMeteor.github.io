@@ -1,2 +1,2 @@
-# SnowMeteor.github.io
-первй хостинг
+# SnowMeteor.gitub.com
+первый хостинг
